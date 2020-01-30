@@ -2,6 +2,20 @@
  * YOUR CODE HERE *
  ******************/
 
+const myFirstName = 'carlos'
+const myLastName='Molina'
+const myBestFriend='Angelo'
+const mySentence='Carlos Molina Angelo'
+const myFavoriteNum=25
+const myMentalAge=40
+const myHeight=68
+const myFavoriteYear=2011
+const mySum=3+1918+24+1
+const myProduct=232*43/2+4
+const myHeightAndAge=68+35 in
+
+
+
 
  
 
